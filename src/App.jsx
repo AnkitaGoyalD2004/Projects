@@ -1,9 +1,4 @@
-import "./App.css";
-import About from "./Pages/About";
-function App() {
-  return <>
-    <About/>
-  </>;
-}
-
+const App = () => {
+  return <div>App</div>;
+};
 export default App;
