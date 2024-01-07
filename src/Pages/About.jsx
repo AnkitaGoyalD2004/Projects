@@ -21,5 +21,8 @@
 //       </p>
 //     </>
 //   );
+
+import { About } from ".";
+
 // };
-// export default About;
+export default About;
